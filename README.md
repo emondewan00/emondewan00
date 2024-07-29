@@ -1,6 +1,5 @@
 ### Hi there 👋, My name is Emon Hossain 
 #### I am a MERN stack developer .
-![I am a MERN stack developer .](https://media.licdn.com/dms/image/D4D16AQEh0RKLi8XdpQ/profile-displaybackgroundimage-shrink_350_1400/0/1698761260944?e=1718841600&v=beta&t=dynr-4UGgHRmr4ykqoOv16xIvK196lSHHbceX_BxUXo)
 
 I am a self motivated and skilled Full Stack Developer with expertise in the MERN (MongoDB, Express.js, React, Node.js) stack, and my career objective is to leverage my technical knowledge and passion for coding to excel in the software development industry. I am committed to creating innovative and user-friendly web applications, utilizing the latest technologies and best practices to deliver high-quality solutions that meet and exceed client expectations.
 
