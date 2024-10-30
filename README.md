@@ -5,10 +5,9 @@ I am a self motivated and skilled Full Stack Developer with expertise in the MER
 
 My goal is to continuously expand my skillset, collaborate with talented teams, and contribute to the success of cutting-edge projects while staying up-to-date with the ever-evolving world of web development.
 
-Skills:  REACT / JS / HTML / CSS / Node / Express / Mongoose 
+Skills:  REACT / Next.js / Redux / JS / HTML / CSS / Node / Express / Mongoose 
 
-- 🔭 I’m currently working on Porto  Ecommerce  
-- 🌱 I’m currently learning Next.js 
+- 🌱 I’m currently learning DSA 
 - 📫 How to reach me: emon.hossain1004@gmail.com 
 
 
