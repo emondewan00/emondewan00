@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a **Web Developer** with over 2.5 years of ded
 - **State Management**: Redux Toolkit, RTK Query
 - **Styling**: Tailwind CSS, CSS Modules, Vanilla CSS
 - **Backend**: Mongoose, Node.js
-- **Tools**: VS Code, aaPanel, Git, GitHub
+- **Tools**: VS Code, Git, GitHub
 
 ## 🔧 Projects
 
