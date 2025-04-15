@@ -18,11 +18,11 @@ Welcome to my GitHub profile! I'm a **Web Developer** with over 2.5 years of ded
 
 ## 🔧 Projects
 
-### E-prottoyon
+### [E-prottoyon](https://eprottoyon.com)
 - Designed tools to generate official-style certificates for Bangladeshi government use.
 - Developed an intuitive agent dashboard featuring charts and detailed insights.
 
-### E-Card Templates
+### [2TalkLink](http://2talklink.com/)
 - Created 4 customizable templates for an innovative e-card creation platform.
 
 ### [Porto E-commerce](https://github.com/emondewan00/ecommerce-update)
