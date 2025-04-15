@@ -1,6 +1,6 @@
 # Hi there, I'm MD Emon Hossain 👋
 
-Welcome to my GitHub profile! I'm a **Web Developer** with over 2.5 years of dedicated learning and 6 months of hands-on experience. Programming is my passion, and I specialize in **React.js**, **Redux.js**, **Next.js**, and **JavaScript**, with a focus on building user-friendly solutions. Currently, I am learning **React Native** to expand my development skills.
+Welcome to my GitHub profile! I'm a **Web Developer** with over 2.5 years of dedicated learning and 1 year+ of hands-on experience. Programming is my passion, and I specialize in **React.js**, **Redux.js**, **Next.js**, and **JavaScript**, with a focus on building user-friendly solutions. Currently, I am learning **React Native** to expand my development skills.
 
 ## 🌟 Key Highlights
 
